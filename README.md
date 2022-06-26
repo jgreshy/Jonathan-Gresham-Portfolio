@@ -7,3 +7,4 @@
 - Focus was to analyze the relationship between covid deaths and covid vaccinations as they were first introduced
 - Analyzes tranmission rates, death rates, and vaccination rates throughout the initial stages of the pandemic
 - Visualization from Tableau can be found [here](https://public.tableau.com/app/profile/jonathan.gresham/viz/CovidProject_16558078529460/Dashboard1)
+![Transmission Levels By Country](
