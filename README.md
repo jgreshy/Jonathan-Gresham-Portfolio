@@ -35,4 +35,4 @@ Includes:
 
 ### Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jonathan.gresham/viz/KickstarterPortfolioProjectDashboard/Dashboard1)
 
-![Success Rate of Kickstarter Campaign Goals](https://github.com/jgreshy/Jonathan-Gresham-Portfolio/blob/174b26455ba261cbc4a0149f090a7f22506a5e04/images/Screen%20Shot%202022-07-17%20at%205.31.21%20PM.png)
+![Success Rate of Kickstarter Campaign Goals](https://github.com/jgreshy/Jonathan-Gresham-Portfolio/blob/174b26455ba261cbc4a0149f090a7f22506a5e04/images/Screen%20Shot%202022-07-17%20at%205.31.21%20PM.png?raw=true)
