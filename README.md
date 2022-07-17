@@ -9,3 +9,6 @@
 ### Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jonathan.gresham/viz/CovidProject_16558078529460/Dashboard1)
 
 ![Transmission Levels By Country](https://github.com/jgreshy/Jonathan-Gresham-Portfolio/blob/main/images/Screen%20Shot%202022-06-26%20at%204.10.22%20PM.png?raw=true)
+
+# Project 2 Overview: Using SQL and Tableau
+## [**Kickstarter Campaigns: Trends of Success**]()
