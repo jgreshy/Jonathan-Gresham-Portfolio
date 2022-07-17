@@ -13,6 +13,6 @@
 # Project 2 Overview: Using SQL and Tableau
 ## [**Kickstarter Campaigns: Global Success Patterns**](https://github.com/jgreshy/kickstarter)
 
-
+![Success Rate of Campaign Goal Amounts](https://github.com/jgreshy/Jonathan-Gresham-Portfolio/blob/main/images/Screen%20Shot%202022-07-17%20at%205.31.21%20PM.png)
 
 ### Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jonathan.gresham/viz/KickstarterPortfolioProjectDashboard/Dashboard1)
