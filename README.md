@@ -1,6 +1,6 @@
 ### Jonathan Gresham's Portfolio
-Project 1: World Health Organization: Covid Deaths and Vaccinations
-Project 2 Overview: Kickstarter Campaigns: Global Success Patterns
+- Project 1: World Health Organization: Covid Deaths and Vaccinations
+- Project 2 Overview: Kickstarter Campaigns: Global Success Patterns
 
 # Project 1 Overview: Using SQL and Tableau
 ## [**World Health Organization: Covid Deaths and Vaccinations**](https://github.com/jgreshy/Covid-Portfolio-Project)
